@@ -18,4 +18,7 @@ My Exceptions:
 - ### Is A Prime: 
 In this problem you have to check whether a given number is prime or not.
 
+- ### Prime till n: 
+You have to print all prime numbers between a range from low to high.
+
 
