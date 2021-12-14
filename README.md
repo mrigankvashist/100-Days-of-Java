@@ -15,10 +15,20 @@ My Exceptions:
 - My University work, and few emergencies might demand to take a day off
 
 # Day 1
+- ### Basics: 
+Going through the basics and syntax of java with minimal hello world, addition, subtraction programs.
 - ### Is A Prime: 
 In this problem you have to check whether a given number is prime or not.
 
 - ### Prime till n: 
 You have to print all prime numbers between a range from low to high.
+
+# Day 2
+- ### Fibonacci Series:
+Print first n fibonacci numbers.
+
+- ### Count Digits in Number:
+Count the number of digits in a number
+
 
 
