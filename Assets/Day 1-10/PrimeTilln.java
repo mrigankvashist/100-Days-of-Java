@@ -1,4 +1,3 @@
-import java.util.*;
 import java.util.Scanner;
 
 public class PrimeTilln {
@@ -16,7 +15,8 @@ public class PrimeTilln {
             if(count==0){
                 System.out.println(i);
             }
-
+        scn.close();
+        
         }
     }
 

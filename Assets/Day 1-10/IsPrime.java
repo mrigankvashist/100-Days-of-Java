@@ -1,4 +1,3 @@
-import java.util.*;
 import java.util.Scanner;
 
 public class IsPrime {
@@ -17,7 +16,7 @@ public class IsPrime {
                 System.out.println("Composite Number");
             } else
                 System.out.println("Prime Number");
-
+                scn.close();
         }
     }
 
