@@ -35,3 +35,10 @@ Display the digits of a number in reverse.
 
 - ### Inverse of a Number:
  Interchange the face value and index of digits of number with a constraint  that if the number is 5 digits long, it should contain all the digits from 1 to 5 without missing any and without repeating any. Eg. inverse of 2134 is 1243 and inverse of 24153 is 24153.
+
+# Day 3
+- ### Rotate a number:
+Given two numbers n and k, you are required to rotate n, k times to the right. If k is positive, rotate to the right i.e. remove rightmost digit and make it leftmost. Do the reverse for negative value of k
+
+- ### GCD and LCM :
+Required to print the Greatest Common Divisor (GCD) and Lowest Common Multiple (LCM) of two numbers.
