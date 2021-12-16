@@ -42,3 +42,9 @@ Given two numbers n and k, you are required to rotate n, k times to the right. I
 
 - ### GCD and LCM :
 Required to print the Greatest Common Divisor (GCD) and Lowest Common Multiple (LCM) of two numbers.
+
+- ### Prime Factorization :
+Display the prime factorization of a number
+
+- ### Pythagorean Triplet :
+You are required to check if a given set of numbers is a valid pythagorean triplet.
