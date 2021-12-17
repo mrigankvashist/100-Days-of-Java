@@ -57,8 +57,14 @@ Print all the bulbs that will be on after the nth fluctuation in voltage.
 
 - ### Pattern-1:
 Draw the following pattern -
-<img src="http://pepcoding.com/resources/ojquestionresource/images/pat11.JPG" />
+<p><img src="http://pepcoding.com/resources/ojquestionresource/images/pat11.JPG" /> </p>
 
 - ### Pattern-2:
 Draw the following pattern -
-<img src="http://pepcoding.com/resources/ojquestionresource/images/pat21.JPG">
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat21.JPG"></p>
+
+- ### Pattern-3:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat31.JPG"></p>
