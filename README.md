@@ -48,3 +48,17 @@ Display the prime factorization of a number
 
 - ### Pythagorean Triplet :
 You are required to check if a given set of numbers is a valid pythagorean triplet.
+
+# Day 4
+- ### Curious Case Of Benjamin Bulbs:
+You are given n number of bulbs. They are all switched off. A weird fluctuation in voltage hits the circuit n times. In the 1st fluctuation all bulbs are toggled, in the 2nd fluctuation every 2nd bulb is toggled, in the 3rd fluctuation every 3rd bulb is toggled and so on. You've to find which bulbs will be switched on after n fluctuations. 
+Let i/p n be the number of bulbs.
+Print all the bulbs that will be on after the nth fluctuation in voltage.
+
+- ### Pattern-1:
+Draw the following pattern -
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat11.JPG" />
+
+- ### Pattern-2:
+Draw the following pattern -
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat21.JPG">
