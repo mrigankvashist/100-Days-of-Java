@@ -68,3 +68,19 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat31.JPG"></p>
+
+# Day 5
+- ### Pattern-4:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat41.JPG"></p>
+
+- ### Pattern-5:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat51.JPG"></p>
+
+- ### Pattern-6:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat61.JPG"></p>
