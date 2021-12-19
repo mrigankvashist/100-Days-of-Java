@@ -84,3 +84,25 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat61.JPG"></p>
+
+
+# Day 6
+- ### Pattern-7:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat71.JPG"></p>
+
+- ### Pattern-8:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat81.JPG"></p>
+
+- ### Pattern-9:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat91.JPG"></p>
+
+- ### Pattern-10:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat101.JPG"></p>
