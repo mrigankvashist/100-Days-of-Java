@@ -128,3 +128,14 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat141.JPG"></p>
+
+# Day 8
+- ### Pattern-15:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat151.JPG"></p>
+
+- ### Pattern-16:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat161.JPG"></p>
