@@ -139,3 +139,9 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat161.JPG"></p>
+
+# Day 9
+- ### Pattern-17:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat171.JPG"></p>
