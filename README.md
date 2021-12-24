@@ -145,3 +145,13 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat171.JPG"></p>
+
+- ### Pattern-18:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat181.JPG"></p>
+
+- ### Pattern-19:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat191.JPG"></p>
