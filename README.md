@@ -155,3 +155,9 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat191.JPG"></p>
+
+# Day 10
+- ### Pattern-20:
+Draw the following pattern -
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/pat201.JPG"></p>
