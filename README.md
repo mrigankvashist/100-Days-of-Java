@@ -161,3 +161,12 @@ Draw the following pattern -
 Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat201.JPG"></p>
+
+- ### NpR
+Find Permutation having N and R
+
+- ### Digit Frequency
+Required to calculate the frequency of digit d in number n
+
+- ### Digit Frequency
+Required to convert the decimal number n into its corresponding value in base b
