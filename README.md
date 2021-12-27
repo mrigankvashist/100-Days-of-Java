@@ -162,11 +162,21 @@ Draw the following pattern -
 <p>
 <img src="http://pepcoding.com/resources/ojquestionresource/images/pat201.JPG"></p>
 
-- ### NpR
+- ### NpR:
 Find Permutation having N and R
 
-- ### Digit Frequency
+- ### Digit Frequency:
 Required to calculate the frequency of digit d in number n
 
-- ### Digit Frequency
+- ### Decimal To Any Base:
 Required to convert the decimal number n into its corresponding value in base b
+
+# Day 11
+- ### Any Base To Decimal:
+Required to convert the number n into its corresponding value in decimal number system
+
+- ### Any Base To Any Base:
+Required to convert the number n of base b1 to a number in base b2
+
+- ### Any Base Addition:
+Given a base b, you are given two numbers n1 and n2 of base b. Required to add the two numbes and print their value in base b
