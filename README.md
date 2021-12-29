@@ -180,3 +180,10 @@ Required to convert the number n of base b1 to a number in base b2
 
 - ### Any Base Addition:
 Given a base b, you are given two numbers n1 and n2 of base b. Required to add the two numbes and print their value in base b
+
+# Day 12
+- ### Any Base To Subtraction:
+Required to subtract n1 from n2 of base b and print the value
+
+- ### Any Base To Multiplication:
+Required to multiply n1 and n2 of base b and print the value
