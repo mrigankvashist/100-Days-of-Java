@@ -10,9 +10,9 @@ public static void main(String[] args) {
 
     int d = getProduct(b, n1, n2);
     System.out.println(d);
+    scn.close();
  }
  public static int getProduct(int b, int n1, int n2){
-    int c = 0;
     int mult = 1;
     int rv = 0;
     while(n2>0){

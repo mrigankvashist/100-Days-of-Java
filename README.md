@@ -182,11 +182,19 @@ Required to convert the number n of base b1 to a number in base b2
 Given a base b, you are given two numbers n1 and n2 of base b. Required to add the two numbes and print their value in base b
 
 # Day 12
-- ### Any Base To Subtraction:
+- ### Any Base Subtraction:
 Required to subtract n1 from n2 of base b and print the value
 
-- ### Any Base To Multiplication:
+- ### Any Base  Multiplication:
 Required to multiply n1 and n2 of base b and print the value
 
 - ### Array basics
 Understanding Array's: Declartion with length and values, Memory management. Array implications on  assignment, performance, functions
+
+
+# Day 13
+- ### Span Of Array:
+Required to find the span of input of n numbers. Span is defined as difference of maximum value and minimum value.
+
+- ### Find Element In An Array:
+Required to check if d number exists in the array a and at what index (0 based). If found print the index, otherwise print -1.
