@@ -198,3 +198,9 @@ Required to find the span of input of n numbers. Span is defined as difference o
 
 - ### Find Element In An Array:
 Required to check if d number exists in the array a and at what index (0 based). If found print the index, otherwise print -1.
+
+- ### Bar Chart:
+Print a bar chart representing value of arr a
+
+- ### Sum Of Two Arrays:
+Add the numbers represented by two arrays and print the arrays
