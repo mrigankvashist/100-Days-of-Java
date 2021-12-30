@@ -187,3 +187,6 @@ Required to subtract n1 from n2 of base b and print the value
 
 - ### Any Base To Multiplication:
 Required to multiply n1 and n2 of base b and print the value
+
+- ### Array basics
+Understanding Array's: Declartion with length and values, Memory management. Array implications on  assignment, performance, functions
