@@ -204,3 +204,7 @@ Print a bar chart representing value of arr a
 
 - ### Sum Of Two Arrays:
 Add the numbers represented by two arrays and print the arrays
+
+# Day 14
+- ### Difference Of Two Arrays:
+Find the difference of two numbers represented by two arrays and print the arrays. a2 - a1
