@@ -208,3 +208,9 @@ Add the numbers represented by two arrays and print the arrays
 # Day 14
 - ### Difference Of Two Arrays:
 Find the difference of two numbers represented by two arrays and print the arrays. a2 - a1
+
+- ### Reverse An Array:
+Reverse the contents of array a
+
+- ### Slight slack due to New years. Will cover up.
+
