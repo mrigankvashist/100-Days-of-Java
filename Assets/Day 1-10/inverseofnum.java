@@ -11,7 +11,7 @@ public class inverseofnum {
             int d = n % 10;
             int id = pos;
             int ip = d;
-            finalnum = finalnum + id * (int)Math.pow(10,ip-1);
+            finalnum +=+ id * (int)Math.pow(10,ip-1);
             n = n / 10;
             pos++;
         }

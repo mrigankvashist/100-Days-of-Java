@@ -214,3 +214,15 @@ Reverse the contents of array a
 
 - ### Slight slack due to New years. Will cover up.
 
+# Day 15
+- ### Rotate An Array:
+Rotate the array a, k times to the right (for positive values of k), and to
+the left for negative values of k
+
+- ### Revision
+Revised all programs till DAY-15 and made short notes of algos for all
+
+# Day 16
+- ### Inverse An Array:
+For array:-
+ Interchange the face value and index of digits of number with a constraint  that if the number is 5 digits long, it should contain all the digits from 1 to 5 without missing any and without repeating any. Eg. inverse of 2134 is 1243 and inverse of 24153 is 24153.
