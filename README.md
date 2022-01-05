@@ -235,3 +235,17 @@ Perform binary search in given array
 
  - ### Broken Economy:
  You are required to find the ceil and floor of d in sorted array
+
+ # Day 17
+- ### First Index And Last Index:
+You are given n numbers, representing elements of array a.
+Asssumption - Array is sorted. Array may have duplicate values. 
+Output: A number representing first index of the element
+A number representing last index of the element
+
+- ### Subsets Of Array:
+You are required to print all subsets of arr. Each subset should be on separate line
+
+- ### 2D Array:
+Readin basics of 2D Array
+ 
