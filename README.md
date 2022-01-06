@@ -248,4 +248,19 @@ You are required to print all subsets of arr. Each subset should be on separate 
 
 - ### 2D Array:
 Readin basics of 2D Array
+
+ # Day 18
+- ### 2d Arrays Demo
+You are given n*m numbers, representing elements of 2d array a. Display the contents of 2d array as suggested by output format below
+
+- ### Matrix Multiplication
+If the two arrays representing two matrices of dimensions n1 * m1 and n2 * m2 can be multiplied, display the contents of prod array.
+ If the two arrays can't be multiplied, print "Invalid input"
+
+ - ### Wave Traversal 
+Print the array in the form of the wave. 
+1st col- Top to bottom, one space right
+2nd col- bottom to up , one space right and so on.
+
+
  
