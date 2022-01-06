@@ -262,5 +262,8 @@ Print the array in the form of the wave.
 1st col- Top to bottom, one space right
 2nd col- bottom to up , one space right and so on.
 
+ - ### Spiral Display 
+Traverse and print the contents of the 2d array in form of a spiral
+
 
  
