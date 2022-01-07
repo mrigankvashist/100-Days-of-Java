@@ -265,5 +265,13 @@ Print the array in the form of the wave.
  - ### Spiral Display 
 Traverse and print the contents of the 2d array in form of a spiral
 
+# Day 19
+- ### Exit Point Of A Matrix
+The player moves in the same direction as long as he meets '0'. On seeing a 1, he takes a 90 deg right turn. You are required to print the indices in (row, col) format of the point from where you exit the matrix
 
+- ### Rotate By 90 Degree
+You are required to rotate the matrix by 90 degree clockwise and then display the contents using display function
+
+
+ 
  
