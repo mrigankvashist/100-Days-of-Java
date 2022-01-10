@@ -291,5 +291,13 @@ You are required to diagonally traverse the upper half of the matrix and print t
 - ### Complete Revision
 
 
+# Day 21
+- ### Saddle Point
+Required to find the saddle point of the given matrix and print the saddle point. The saddle point is defined as the least point in the row but the maximum point in the column of the matrix
+
+- ### Search In A Sorted 2d Array
+You are required to find x in the matrix and print it's location int (row, col) format. In case element is not found, print "Not Found".
+
+- ### Introduction To Strings, Stringbuilders And Arraylists
  
  
