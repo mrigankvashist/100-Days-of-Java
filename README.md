@@ -281,6 +281,15 @@ You will be given a ring number 's' representing the ring of the matrix. For det
 You will be given a number 'r' representing number of rotations in an anti-clockwise manner of the specified ring.
 You are required to rotate the 's'th ring by 'r' rotations and display the rotated matrix
 
+# Day 20
+- ### Diagonal Traversal 2D Array
+You are required to diagonally traverse the upper half of the matrix and print the contents
+<p>
+<img src="http://pepcoding.com/resources/ojquestionresource/images/diagonal-traversal.jpg">
+</p>
+
+- ### Complete Revision
+
 
  
  
