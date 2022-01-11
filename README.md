@@ -299,5 +299,21 @@ Required to find the saddle point of the given matrix and print the saddle point
 You are required to find x in the matrix and print it's location int (row, col) format. In case element is not found, print "Not Found".
 
 - ### Introduction To Strings, Stringbuilders And Arraylists
+Basic string functions and ops
+ 
+
+# Day 21
+- ### Memory management, String Interning and Immutability
+Implementation of these topics in java
+
+- ### Palindromic Substrings
+Print all palindromic substrings of the given string
+
+- ### String Compression
+You have to compress the given string in the following two ways 
+First compression -> The string should be compressed such that consecutive duplicates of characters are replaced with a single character.
+   For "aaabbccdee", the compressed string will be "abcde".
+   Second compression -> The string should be compressed such that consecutive duplicates of characters are replaced with the character and followed by the number of consecutive duplicates.
+   For "aaabbccdee", the compressed string will be "a3b2c2de2".
  
  
