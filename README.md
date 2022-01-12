@@ -302,7 +302,7 @@ You are required to find x in the matrix and print it's location int (row, col) 
 Basic string functions and ops
  
 
-# Day 21
+# Day 22
 - ### Memory management, String Interning and Immutability
 Implementation of these topics in java
 
