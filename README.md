@@ -315,5 +315,13 @@ First compression -> The string should be compressed such that consecutive dupli
    For "aaabbccdee", the compressed string will be "abcde".
    Second compression -> The string should be compressed such that consecutive duplicates of characters are replaced with the character and followed by the number of consecutive duplicates.
    For "aaabbccdee", the compressed string will be "a3b2c2de2".
- 
- 
+
+# Day 23
+- ### Stringbuilder - Usage And Performance
+
+Less contribution due to external examination.
+
+# Day 24
+- ### Toggle Case
+You are given a string that contains only lowercase and uppercase alphabets. 
+You have to toggle the case of every character of the given string
