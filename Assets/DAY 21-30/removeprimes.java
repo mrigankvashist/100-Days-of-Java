@@ -2,9 +2,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class removeprimes {
-    public static boolean isprime(int val) {
-        
-    }
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         int n = scn.nextInt();
@@ -14,8 +11,11 @@ public class removeprimes {
         }
         for (int i = list.size()-1; i >= 0; i--) {
             int val = list.get(i);
-            if(isprime(val)==true) {
+            for (int j = 2; j * j < val; j++) {
+
+                if(val%j!=0) {
                     list.remove(i);
+                }
             }
         }
             System.out.println(list);
