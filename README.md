@@ -341,3 +341,10 @@ You have to print all permutations of the given string iteratively
 
 - ### Introduction To Arraylists Usage And Demo
 
+
+# Day 25
+- ### Remove Primes
+You are given an ArrayList of positive integers.
+You have to remove prime numbers from the given ArrayList and return the updated ArrayList
+
+- ### Reduced contribution due to end terms.
