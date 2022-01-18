@@ -348,3 +348,12 @@ You are given an ArrayList of positive integers.
 You have to remove prime numbers from the given ArrayList and return the updated ArrayList
 
 - ### Reduced contribution due to end terms.
+
+# Day 26
+- ### Print Decreasing
+You are given a positive number n. 
+You are required to print the counting from n to You are required to not use any loops. Complete the body of print Decreasing function to achieve it. Use only <b>recursive</b> logic.
+
+- ### Print Increasing
+You are given a positive number n. 
+You are required to print the counting from 1 to n. You are required to not use any loops. Complete the body of print Increasing function to achieve it. Use only <b>recursive</b> logic.
