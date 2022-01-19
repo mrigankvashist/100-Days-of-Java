@@ -357,3 +357,11 @@ You are required to print the counting from n to You are required to not use any
 - ### Print Increasing
 You are given a positive number n. 
 You are required to print the counting from 1 to n. You are required to not use any loops. Complete the body of print Increasing function to achieve it. Use only <b>recursive</b> logic.
+
+- ### Factorial
+Calculate the factorial of the number. Don't change the signature of factorial function Use only <b>recursive</b> logic.
+
+- ### Power-linear
+You are given a number x.
+You are given another number n.
+You are required to calculate x raised to the power n. Don't change the signature of power function. Use only <b>recursive</b> logic.
