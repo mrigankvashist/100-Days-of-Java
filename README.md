@@ -365,3 +365,9 @@ Calculate the factorial of the number. Don't change the signature of factorial f
 You are given a number x.
 You are given another number n.
 You are required to calculate x raised to the power n. Don't change the signature of power function. Use only <b>recursive</b> logic.
+
+
+# Day 27
+- ### Power-logarithmic
+You are given a number x. You are given another number n. You are required to calculate x raised to the power n. Don't change the signature of power function.
+Note1 -> The previous version expects the call stack to be of n height. This function expects call function to be only log(n) high
