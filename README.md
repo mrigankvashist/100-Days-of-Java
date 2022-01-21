@@ -384,4 +384,22 @@ Input2 -> 3
 Output3 -> 3 2 1 1 1 2 1 1 1 2 3 2 1 1 1 2 1 1 1 2 3
 Figure out the pattern and complete the recursive function pzz to achieve the above for any positive number n.
 
-- ### Got in touch about pre,in,post in a euler tree. Implementation and stack calls. 
+- ### Evaluated pre,in,post order in a Recursion Euler Tree . Implementation and stack calls. 
+
+
+# Day 28
+- ### Tower Of Hanoi
+There are 3 towers. Tower 1 has n disks, where n is a positive number. Tower 2 and 3 are empty.
+The disks are increasingly placed in terms of size such that the smallest disk is on top and largest disk is at bottom.
+ You are required to 
+    1. Print the instructions to move the disks.
+    2. from tower 1 to tower 2 using tower 3 
+    3. following the rules
+        3.1 move 1 disk at a time.
+        3.2 never place a smaller disk under a larger disk.
+        3.3 you can only move a disk at the top.
+
+- ### Display Array using Recursion
+Print the elements of array from beginning to end each in a separate line using Recursion
+
+- ### Display Array In Reverse using Recursion
