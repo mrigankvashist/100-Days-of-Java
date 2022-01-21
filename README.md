@@ -371,3 +371,17 @@ You are required to calculate x raised to the power n. Don't change the signatur
 - ### Power-logarithmic
 You are given a number x. You are given another number n. You are required to calculate x raised to the power n. Don't change the signature of power function.
 Note1 -> The previous version expects the call stack to be of n height. This function expects call function to be only log(n) high
+
+- ### Print Zigzag
+Here are a few sets of inputs and outputs for your reference
+Input1 -> 1
+Output1 -> 1 1 1
+
+Input2 -> 2
+Output2 -> 2 1 1 1 2 1 1 1 2
+
+Input2 -> 3
+Output3 -> 3 2 1 1 1 2 1 1 1 2 3 2 1 1 1 2 1 1 1 2 3
+Figure out the pattern and complete the recursive function pzz to achieve the above for any positive number n.
+
+- ### Got in touch about pre,in,post in a euler tree. Implementation and stack calls. 
