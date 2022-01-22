@@ -403,3 +403,14 @@ The disks are increasingly placed in terms of size such that the smallest disk i
 Print the elements of array from beginning to end each in a separate line using Recursion
 
 - ### Display Array In Reverse using Recursion
+
+
+# Day 29
+- ### Max Of An Array
+Find the maximum of input array
+
+- ### First Index
+Find the first index at which x occurs in array using Recursion
+
+- ### Last Index
+Find the last index at which x occurs in array using Recursion
