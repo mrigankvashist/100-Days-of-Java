@@ -414,3 +414,15 @@ Find the first index at which x occurs in array using Recursion
 
 - ### Last Index
 Find the last index at which x occurs in array using Recursion
+
+- ### All Indices Of Array
+Find the all indices at which x occurs in array.
+Return an array of appropriate size which contains all indices at which x occurs in array a
+
+
+# Day 30
+- ### Get Subsequence
+You are given a string str.
+Calculate all subsequences of str.
+
+- ### Day 1-10 Revision
