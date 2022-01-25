@@ -426,3 +426,23 @@ You are given a string str.
 Calculate all subsequences of str.
 
 - ### Day 1-10 Revision
+
+# Day 31
+- ### Get Kpc
+You are given a string str. The string str will contains numbers only, where each number stands for a key pressed on a mobile phone.
+The following list is the key to characters map :
+    0 -> .;
+    1 -> abc
+    2 -> def
+    3 -> ghi
+    4 -> jkl
+    5 -> mno
+    6 -> pqrs
+    7 -> tu
+    8 -> vwx
+    9 -> yz
+Get the list of all words that could be produced by the keys in st
+
+- ### Get Stair Paths
+Given a number n representing number of stairs in a staircase.
+You are standing at the bottom of staircase. You are allowed to climb 1 step, 2 steps or 3 steps in one move
