@@ -446,3 +446,11 @@ Get the list of all words that could be produced by the keys in st
 - ### Get Stair Paths
 Given a number n representing number of stairs in a staircase.
 You are standing at the bottom of staircase. You are allowed to climb 1 step, 2 steps or 3 steps in one move
+
+# Day 32
+- ### Reverse Array/String DS450 Revised
+Program to reverse an array or string
+
+- ### Find the maximum and minimum element in an array
+
+- ### Find the "Kth" smallest element of an array 
