@@ -454,3 +454,12 @@ Program to reverse an array or string
 - ### Find the maximum and minimum element in an array
 
 - ### Find the "Kth" smallest element of an array 
+
+# Day 33
+- ### Sort the array without using any sorting algo
+Given an array which consists of only 0, 1 and 2. 
+
+- ### Move all the negative elements to one side of the array 
+
+- ### Find the Union of two sorted arrays - 
+Use arraylists
