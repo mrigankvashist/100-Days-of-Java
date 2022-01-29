@@ -472,3 +472,8 @@ Use arraylists
 
 - ### Largest Sum Contiguous Subarray -- KADANE'S Algo
 
+# Day 35
+- ### Minimize the Heights II
+Minimise the maximum difference between heights 
+
+
