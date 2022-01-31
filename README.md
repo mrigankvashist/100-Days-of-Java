@@ -472,6 +472,7 @@ Use arraylists
 
 - ### Largest Sum Contiguous Subarray -- KADANE'S Algo
 
+
 # Day 35
 - ### Minimize the Heights II
 Minimise the maximum difference between heights 
@@ -479,4 +480,12 @@ Minimise the maximum difference between heights
 - ### Get Maze Paths
 You are given a number n and a number m representing number of rows and columns in a maze.
 You are standing in the top-left corner and have to reach the bottom-right corner. Only two moves are allowed 'h' (1-step horizontal) and 'v' (1-step vertical).
+
+
+# Day 36
+- ### Get Maze Path With Jumps
+You are given a number n and a number m representing number of rows and columns in a maze.
+You are standing in the top-left corner and have to reach the bottom-right corner. 
+In a single move you are allowed to jump 1 or more steps horizontally (as h1, h2, .. ), or 1 or more steps vertically (as v1, v2, ..) or 1 or more steps diagonally (as d1, d2, ..). 
+
 
