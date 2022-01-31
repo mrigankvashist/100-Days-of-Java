@@ -41,7 +41,7 @@ public class mazewithjumps {
         }
 
         // diagonal moves
-        for (int dmovesize = 1; dmovesize < dr-sr && dmovesize<dc-sc; dmovesize++) {
+        for (int dmovesize = 1; dmovesize <= dr-sr && dmovesize<=dc-sc; dmovesize++) {
             ArrayList<String> dpaths = getMazePaths(sr+dmovesize, sc+dmovesize, dr, dc);
             for(String dpath : dpaths){
                 paths.add("d"+dmovesize+dpath);
