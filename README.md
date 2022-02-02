@@ -493,3 +493,27 @@ In a single move you are allowed to jump 1 or more steps horizontally (as h1, h2
 - ### Fibonacci using Dynamic Programming Logic
 
 
+# Day 37
+- ### Climb Stairs
+You are given a number n, representing the number of stairs in a staircase.
+You are on the 0th step and are required to climb to the top.
+In one move, you are allowed to climb 1, 2 or 3 stairs.
+You are required to print the number of different paths via which you can climb to the top
+1. Using recursion
+2. Using Dynamic Programming (Memoization)
+2. Using Dynamic Programming (Table method)
+
+- ### Climb Stairs With Variable Jumps
+You are given a number n, representing the number of stairs in a staircase.
+You are on the 0th step and are required to climb to the top.
+You are given n numbers, where ith element's value represents - till how far from the step you could jump to in a single move.  You can of course jump fewer number of steps in the move.
+You are required to print the number of different paths via which you can climb to the top.
+
+
+
+# Day 38
+- ### Climb Stairs with minimum moves
+You are on the 0th step and are required to climb to the top.
+You are given n numbers, where ith element's value represents - till how far from the step you  could jump to in a single move.  You can of-course fewer numb of steps in the move.
+You are required to print the number of minimum moves in which you can reach the top of staircase.
+
