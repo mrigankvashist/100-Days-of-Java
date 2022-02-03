@@ -525,3 +525,8 @@ You are standing in top-left cell and are required to move to bottom-right cell.
 You are allowed to move 1 cell right (h move) or 1 cell down (v move) in 1 motion.
 Each cell has a value that will have to be paid to enter that cell (even for the top-left and bottom-right cell).
 
+# Day 39
+- ### Goldmine
+You are given n*m numbers, representing elements of 2d array a, which represents a gold mine.
+You are standing in front of left wall and are supposed to dig to the right wall. You can start from any row in the left wall.
+You are allowed to move 1 cell right-up (d1), 1 cell right (d2) or 1 cell right-down(d3).
