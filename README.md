@@ -517,3 +517,11 @@ You are on the 0th step and are required to climb to the top.
 You are given n numbers, where ith element's value represents - till how far from the step you  could jump to in a single move.  You can of-course fewer numb of steps in the move.
 You are required to print the number of minimum moves in which you can reach the top of staircase.
 
+- ### Min Cost In Maze Traversal
+You are given a number n, representing the number of rows.
+You are given a number m, representing the number of columns.
+You are given n*m numbers, representing elements of 2d array a, which represents a maze.
+You are standing in top-left cell and are required to move to bottom-right cell.
+You are allowed to move 1 cell right (h move) or 1 cell down (v move) in 1 motion.
+Each cell has a value that will have to be paid to enter that cell (even for the top-left and bottom-right cell).
+
