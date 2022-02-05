@@ -530,3 +530,10 @@ Each cell has a value that will have to be paid to enter that cell (even for the
 You are given n*m numbers, representing elements of 2d array a, which represents a gold mine.
 You are standing in front of left wall and are supposed to dig to the right wall. You can start from any row in the left wall.
 You are allowed to move 1 cell right-up (d1), 1 cell right (d2) or 1 cell right-down(d3).
+
+- ### Palindrome
+
+- ### Target Sum Subsets - Dp
+You are given n numbers.
+You are given a number "tar".
+You are required to calculate and print true or false, if there is a subset the elements of which add up to "tar" or not.
