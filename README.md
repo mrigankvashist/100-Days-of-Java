@@ -537,3 +537,10 @@ You are allowed to move 1 cell right-up (d1), 1 cell right (d2) or 1 cell right-
 You are given n numbers.
 You are given a number "tar".
 You are required to calculate and print true or false, if there is a subset the elements of which add up to "tar" or not.
+
+
+# Day 40
+- ### Coin Change Combination
+You are given n numbers, representing the denominations of n coins.
+You are given a number "amt".
+You are required to calculate and print the number of combinations of the n coins using which the amount "amt" can be paid.
