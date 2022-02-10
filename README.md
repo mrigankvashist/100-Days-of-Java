@@ -576,3 +576,14 @@ You are required to print the number of binary strings of length n with no conse
 You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.
 Return the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.
 You may assume that you have an infinite number of each kind of coin.
+
+# Day 43
+- ### Count Encodings
+You are required to encode the str as per following rules
+    1 -> a
+    2 -> b
+    3 -> c
+    ..
+    25 -> y
+    26 -> z
+You are required to calculate and print the count of encodings for the string str.
