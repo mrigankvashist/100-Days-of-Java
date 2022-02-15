@@ -597,3 +597,8 @@ For abcabc -> there are 7 subsequences. abc, abc, abbc, aabc, abcc, abc, abc.
 # Day 44
 - ### Maximum Sum Non Adjacent Elements
 Find the maximum sum of a subsequence with no adjacent elements
+
+- ### Paint House
+You are given a number n, representing the number of houses.
+In the next n rows, you are given 3 space separated numbers representing the cost of painting nth house with red or blue or green color.
+You are required to calculate and print the minimum cost of painting all houses without painting any consecutive house with same color
