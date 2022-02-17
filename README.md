@@ -603,7 +603,7 @@ You are given a number n, representing the number of houses.
 In the next n rows, you are given 3 space separated numbers representing the cost of painting nth house with red or blue or green color.
 You are required to calculate and print the minimum cost of painting all houses without painting any consecutive house with same color
 
-# Day 44
+# Day 45
 - ### Paint House - Many Colors
 You are given a number n and a number k separated by a space, representing the number of houses and number of colors.
 In the next n rows, you are given k space separated numbers representing the cost of painting nth house with one of the k colors.
@@ -611,3 +611,6 @@ You are required to calculate and print the minimum cost of painting all houses 
 
 - ### Paint Fence
 You are given a number n and a number k in separate lines, representing the number of fences and number of colors. You are required to calculate and print the number of ways in which the fences could be painted so that not more than two consecutive  fences have same colors.
+
+- ### Tiling With 2 * 1 Tiles
+You are given a number n representing the length of a floor space which is 2m wide. It's a 2 * n board.You've an infinite supply of 2 * 1 tiles.You are required to calculate and print the number of ways floor can be tiled using tiles.
