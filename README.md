@@ -614,3 +614,32 @@ You are given a number n and a number k in separate lines, representing the numb
 
 - ### Tiling With 2 * 1 Tiles
 You are given a number n representing the length of a floor space which is 2m wide. It's a 2 * n board.You've an infinite supply of 2 * 1 tiles.You are required to calculate and print the number of ways floor can be tiled using tiles.
+
+# Day 46
+- ### Tiling With M * 1 Tiles
+You are given a number n and a number m separated by line-break representing the length and breadth of a m * n floor.
+You've an infinite supply of m * 1 tiles.
+You are required to calculate and print the number of ways floor can be tiled using tiles
+
+- ### Friends Pairing
+You are given a number n, representing the number of friends.
+Each friend can stay single or pair up with any of it's friends.
+You are required to print the number of ways in which these friends can stay single or pair up
+E.g. person can stay single or pair up in 1 way.
+people can stay singles or pair up in 2 ways. 12 => 1-2, 12.
+people (123) can stay singles or pair up in 4 ways. 123 => 1-2-3, 12-3, 13-2, 23-1. 
+
+- ### Partition Into Subsets
+You are given a number n, representing the number of elements.
+You are given a number k, representing the number of subsets.
+You are required to print the number of ways in which these elements can be partitioned in k non-empty subsets.
+E.g. For n = 4 and k = 3 total ways is 6
+12-3-4
+1-23-4
+13-2-4
+14-2-3
+1-24-3
+1-2-34
+
+- ###  Contains Duplicate - Leetcode 217
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct
