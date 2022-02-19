@@ -629,6 +629,12 @@ E.g. person can stay single or pair up in 1 way.
 people can stay singles or pair up in 2 ways. 12 => 1-2, 12.
 people (123) can stay singles or pair up in 4 ways. 123 => 1-2-3, 12-3, 13-2, 23-1. 
 
+
+- ###  Contains Duplicate - Leetcode 217
+Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct
+
+
+# Day 47
 - ### Partition Into Subsets
 You are given a number n, representing the number of elements.
 You are given a number k, representing the number of subsets.
@@ -640,6 +646,3 @@ E.g. For n = 4 and k = 3 total ways is 6
 14-2-3
 1-24-3
 1-2-34
-
-- ###  Contains Duplicate - Leetcode 217
-Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct
