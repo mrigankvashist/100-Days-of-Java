@@ -646,3 +646,12 @@ E.g. For n = 4 and k = 3 total ways is 6
 14-2-3
 1-24-3
 1-2-34
+
+- ### Buy And Sell Stocks - One Transaction Allowed
+You are given n numbers, where ith number represents price of stock on ith day.
+You are required to print the maximum profit you can make if you are allowed a single transaction.
+
+- ###  Buy And Sell Stocks - Infinite Transactions Allowed
+You are given n numbers, where ith number represents price of stock on ith day.
+You are required to print the maximum profit you can make if you are allowed infinite transactions.
+Note - There can be no overlapping transaction. One transaction needs to be closed (a buy followed by a sell) before opening another transaction (another buy)
