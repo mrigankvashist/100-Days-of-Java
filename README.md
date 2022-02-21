@@ -651,7 +651,22 @@ E.g. For n = 4 and k = 3 total ways is 6
 You are given n numbers, where ith number represents price of stock on ith day.
 You are required to print the maximum profit you can make if you are allowed a single transaction.
 
+# Day 48
 - ###  Buy And Sell Stocks - Infinite Transactions Allowed
 You are given n numbers, where ith number represents price of stock on ith day.
 You are required to print the maximum profit you can make if you are allowed infinite transactions.
 Note - There can be no overlapping transaction. One transaction needs to be closed (a buy followed by a sell) before opening another transaction (another buy)
+
+- ###  Maximum Subarray - Leetcode 53
+Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+A subarray is a contiguous part of an array.
+
+- ### Two Sum - Leetcode 1
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+
+- ###  Merge Sorted Array -  Leetcode 88
+You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+Merge nums1 and nums2 into a single array sorted in non-decreasing order.
+The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
