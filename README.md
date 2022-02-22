@@ -666,7 +666,18 @@ Given an array of integers nums and an integer target, return indices of the two
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order.
 
+
+# Day 49
 - ###  Merge Sorted Array -  Leetcode 88
 You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
 Merge nums1 and nums2 into a single array sorted in non-decreasing order.
 The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n.
+
+- ###   Buy And Sell Stocks With Transaction Fee - Infinite Transactions Allowed
+You are given a number n, representing the number of days.
+You are given n numbers, where ith number represents price of stock on ith day.
+You are give a number fee, representing the transaction fee for every transaction.
+You are required to print the maximum profit you can make if you are allowed infinite transactions, but has to pay "fee" for every closed transaction.
+
+- ### Buy And Sell Stocks With Cooldown - Infinite Transaction Allowed
+You are given a number n, representing the number of days. You are given n numbers, where ith number represents price of stock on ith day. You are required to print the maximum profit you can make if you are allowed infinite transactions, but have to cooldown for 1 day after 1 transaction i.e. you cannot buy on the next day after you sell, you have to cooldown for a day at-least before buying again.
