@@ -684,11 +684,18 @@ You are given a number n, representing the number of days. You are given n numbe
 
 
 # Day 50
-- ###  Buy And Sell Stocks - K Transactions Allowed
+- ###  Buy And Sell Stocks - 2 Transactions Allowed
 You are given a number n, representing the number of days.
 You are given n numbers, where ith number represents price of stock on ith day.
-You are given a number k, representing the number of transactions allowed.
-You are required to print the maximum profit you can make if you are allowed k transactions at-most.
+You are required to print the maximum profit you can make if you are allowed 2 transactions at-most.
 
 - ###  Roman to Integer Leetcode:13
 Given a roman numeral, convert it to an integer.
+
+# Day 51
+- ###  Buy And Sell Stocks - K Transactions Allowed
+You are given a number n, representing the number of days.
+You are given n numbers, where ith number represents price of stock on ith day.
+You are given a number k, where k represents number of transactions.
+You are required to print the maximum profit you can make if you are allowed K transactions at-most.
+
