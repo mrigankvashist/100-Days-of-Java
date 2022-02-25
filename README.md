@@ -699,3 +699,7 @@ You are given n numbers, where ith number represents price of stock on ith day.
 You are given a number k, where k represents number of transactions.
 You are required to print the maximum profit you can make if you are allowed K transactions at-most.
 
+- ### Bubble Sort
+You are given an array(arr) of integers.
+You have to sort the given array in increasing order using bubble sort.
+
