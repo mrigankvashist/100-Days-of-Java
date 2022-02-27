@@ -703,3 +703,19 @@ You are required to print the maximum profit you can make if you are allowed K t
 You are given an array(arr) of integers.
 You have to sort the given array in increasing order using bubble sort.
 
+
+# Day 52
+- ### Selection Sort
+You are given an array(arr) of integers.
+You have to sort the given array in increasing order u sing selection sort.
+
+- ### Insertion Sort
+You are given an array(arr) of integers.
+You have to sort the given array in increasing order using insertion sort.
+
+- ### Merge Two Sorted Arrays
+You are given two sorted arrays(a,b) of integers. You have to merge them and form one sorted array. You have to do it in linear time complexity.
+
+- ### Merge Sort
+You are given an array(arr) of integers. You have to sort the given array in increasing order using the merge sort.
+
