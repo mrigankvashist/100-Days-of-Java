@@ -719,3 +719,9 @@ You are given two sorted arrays(a,b) of integers. You have to merge them and for
 - ### Merge Sort
 You are given an array(arr) of integers. You have to sort the given array in increasing order using the merge sort.
 
+# Day 53
+- ### Partition An Array
+You are given an array(arr) of integers and a pivot.
+You have to re-arrange the given array in such a way that all elements smaller or equal to pivot lie on the left side of pivot and all elements greater than pivot lie on its right side.
+You have to achieve this in linear time.
+
