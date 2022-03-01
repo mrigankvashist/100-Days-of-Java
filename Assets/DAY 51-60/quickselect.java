@@ -1,23 +1,27 @@
-
 import java.util.Scanner;
 
-public class partitioninarray {
+public class quickselect {
 
-  public static void partition(int[] arr, int pivot){
+  public static int quickSelect(int[] arr, int lo, int hi, int k) {
     //write your code here
-    int i = 0;
-    int j = 0;
-    while(i<arr.length){
-      if(arr[i]>pivot){
-        i++;
-      }
-      else{
+
+    return null;
+  }
+
+  public static int partition(int[] arr, int pivot, int lo, int hi) {
+    System.out.println("pivot -> " + pivot);
+    int i = lo, j = lo;
+    while (i <= hi) {
+      if (arr[i] <= pivot) {
         swap(arr, i, j);
         i++;
         j++;
+      } else {
+        i++;
       }
     }
-    
+    System.out.println("pivot index -> " + (j - 1));
+    return (j - 1);
   }
 
   // used for swapping ith and jth elements of array
@@ -42,9 +46,8 @@ public class partitioninarray {
     for (int i = 0; i < n; i++) {
       arr[i] = scn.nextInt();
     }
-    int pivot = scn.nextInt();
-    partition(arr,pivot);
-    print(arr);
+    int k = scn.nextInt();
+    System.out.println(quickSelect(arr,0,arr.length - 1,k - 1));
     scn.close();
   }
 

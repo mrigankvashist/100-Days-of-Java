@@ -725,3 +725,11 @@ You are given an array(arr) of integers and a pivot.
 You have to re-arrange the given array in such a way that all elements smaller or equal to pivot lie on the left side of pivot and all elements greater than pivot lie on its right side.
 You have to achieve this in linear time.
 
+- ### Quick Sort
+You are given an array(arr) of integers.
+You have to sort the given array in increasing order using quick-sort. 
+
+- ### Quick Select
+You are given an array(arr) of integers.
+You have to find the k-th smallest element in the given array using the quick-select algorithm.
+
