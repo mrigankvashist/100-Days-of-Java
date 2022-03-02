@@ -733,3 +733,11 @@ You have to sort the given array in increasing order using quick-sort.
 You are given an array(arr) of integers.
 You have to find the k-th smallest element in the given array using the quick-select algorithm.
 
+# Day 54
+- ### Set Matrix Zero - leetcode 73
+Given a matrix if an element in the matrix is 0 then you will have to set its entire column and row to 0 and then return the matrix
+
+- ### Generate Pascal’s Triangle - Leetcode 119
+Given an integer N, return the first N rows of Pascal’s triangle.
+In Pascal’s triangle, each number is the sum of the two numbers directly above it as shown in the figure below
+
