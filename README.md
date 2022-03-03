@@ -741,3 +741,13 @@ Given a matrix if an element in the matrix is 0 then you will have to set its en
 Given an integer N, return the first N rows of Pascal’s triangle.
 In Pascal’s triangle, each number is the sum of the two numbers directly above it as shown in the figure below
 
+# Day 55
+- ### Next Permutation 
+Given an array Arr[] of integers, rearrange the numbers of the given array into the lexicographically next greater permutation of numbers. If such an arrangement is not possible, it must rearrange it as the lowest possible order (i.e., sorted in ascending order).
+
+- ### Kadane’s Algorithm : 
+Given an integer array arr, find the contiguous subarray (containing at least one number) . Done previously therefore not adding code.
+
+- ###  Sort an array of 0s, 1s and 2s : (Sort Colors) Leetcode 75
+ Given an array consisting of only 0s, 1s and 2s. Write a program to in-place sort the array without using inbuilt sort functions. ( Expected: Single pass-O(N) and constant space)
+
