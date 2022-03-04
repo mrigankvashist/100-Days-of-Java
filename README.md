@@ -746,8 +746,22 @@ In Pascal’s triangle, each number is the sum of the two numbers directly above
 Given an array Arr[] of integers, rearrange the numbers of the given array into the lexicographically next greater permutation of numbers. If such an arrangement is not possible, it must rearrange it as the lowest possible order (i.e., sorted in ascending order).
 
 - ### Kadane’s Algorithm : 
-Given an integer array arr, find the contiguous subarray (containing at least one number) . Done previously therefore not adding code.
+Given an integer array arr, find the contiguous subarray (containing at least one number) . 
+*Done previously therefore not adding code.*
 
 - ###  Sort an array of 0s, 1s and 2s : (Sort Colors) Leetcode 75
  Given an array consisting of only 0s, 1s and 2s. Write a program to in-place sort the array without using inbuilt sort functions. ( Expected: Single pass-O(N) and constant space)
+
+
+# Day 56
+- ### Stock Buy And Sell
+You are given an array of prices where prices is the price of a given stock on an ith day.
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0
+*Done previously therefore not adding code*
+
+- ### Transpose of m*n array
+
+- ### Rotate Image by 90 degree
+Given a matrix, your task is to rotate the matrix by 90 degrees.
+
 

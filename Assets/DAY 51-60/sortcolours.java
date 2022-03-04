@@ -32,7 +32,6 @@ public class sortcolours {
                     a[m] = a[h];
                     a[h] = t;
                     h--;
-                    m++;
                     break;
 
             }
