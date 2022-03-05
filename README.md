@@ -764,4 +764,8 @@ You want to maximize your profit by choosing a single day to buy one stock and c
 - ### Rotate Image by 90 degree
 Given a matrix, your task is to rotate the matrix by 90 degrees.
 
+# Day 57
+- ### Merge Overlapping Sub-intervals
+Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.
+
 
