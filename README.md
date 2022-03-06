@@ -768,4 +768,11 @@ Given a matrix, your task is to rotate the matrix by 90 degrees.
 - ### Merge Overlapping Sub-intervals
 Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.
 
+- ### Merge two Sorted Arrays Without Extra Space
+ Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements
+*Done previously therefore not adding code*
+
+- ###  Find the duplicate in an array of N+1 integers
+Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number
+
 
