@@ -775,4 +775,8 @@ Given an array of intervals, merge all the overlapping intervals and return an a
 - ###  Find the duplicate in an array of N+1 integers
 Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number
 
+# Day 58
+- ### Find the repeating and missing numbers
+You are given a read-only array of N integers with values also in the range [1,N] both inclusive. Each integer appears exactly once except A which appears twice and B which is missing. The task is to find the repeating and missing numbers A and B where A repeats twice and B is missing.
+
 
