@@ -779,4 +779,8 @@ Given an array of N + 1 size, where each element is between 1 and N. Assuming th
 - ### Find the repeating and missing numbers
 You are given a read-only array of N integers with values also in the range [1,N] both inclusive. Each integer appears exactly once except A which appears twice and B which is missing. The task is to find the repeating and missing numbers A and B where A repeats twice and B is missing.
 
+- ### Count inversions in an array
+Given an array of N integers, count the inversion of the array (using merge-sort).
+What is an inversion of an array? Definition: for all i & j < size of array, if i < j then you have to find pair (A[i],A[j]) such that A[j] < A[i].
+
 
