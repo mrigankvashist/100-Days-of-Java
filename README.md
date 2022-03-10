@@ -783,4 +783,8 @@ You are given a read-only array of N integers with values also in the range [1,N
 Given an array of N integers, count the inversion of the array (using merge-sort).
 What is an inversion of an array? Definition: for all i & j < size of array, if i < j then you have to find pair (A[i],A[j]) such that A[j] < A[i].
 
+# Day 59
+- ### Search in a sorted 2D matrix
+Given an m*n 2D matrix and an integer, write a program to find if the given integer exists in the matrix.
+
 
