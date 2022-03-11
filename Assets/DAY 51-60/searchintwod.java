@@ -37,3 +37,24 @@ public class searchintwod {
     }
 
 }
+
+//optimal:
+// public boolean searchMatrix(int[][] matrix, int target) {
+//     int m = matrix.length;
+//     int n = matrix[0].length;
+//    int f = 0;
+//    int l = m*n-1;
+//    while(f<=l){
+//        int mid = (f+l)/2;
+//        if(matrix[mid/n][mid%n]== target){
+//            return true;
+//        }
+//        else if(matrix[mid/n][mid%n] > target){
+//            l = mid-1;
+//        }
+//        else{
+//            f= mid +1;
+//        }
+//    }
+//     return false;
+// }

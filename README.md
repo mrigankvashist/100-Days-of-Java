@@ -787,4 +787,7 @@ What is an inversion of an array? Definition: for all i & j < size of array, if 
 - ### Search in a sorted 2D matrix
 Given an m*n 2D matrix and an integer, write a program to find if the given integer exists in the matrix.
 
+- ###  Implement Pow(x,n) | X raised to the power N
+Given a double x and integer n, calculate x raised to power n. Basically Implement pow(x, n).
+
 
