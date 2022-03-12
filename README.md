@@ -790,4 +790,9 @@ Given an m*n 2D matrix and an integer, write a program to find if the given inte
 - ###  Implement Pow(x,n) | X raised to the power N
 Given a double x and integer n, calculate x raised to power n. Basically Implement pow(x, n).
 
+# Day 60
+- ### Find the Majority Element that occurs more than N/2 times
+Given an array of N integers, write a program to return an element that occurs more than N/2 times in the given array. You may consider that such an element always exists in the array.
 
+- ### Majority Elements(>N/3 times) | Find the elements that appears more than N/3 times in the array
+Given an array of N integers. Find the elements that appears more than N/3 times in the array. If no such element exists, return an empty vector.
