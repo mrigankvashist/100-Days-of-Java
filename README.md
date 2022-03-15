@@ -798,3 +798,8 @@ Given an array of N integers, write a program to return an element that occurs m
 Given an array of N integers. Find the elements that appears more than N/3 times in the array. If no such element exists, return an empty vector.
 
 - ### Revision 
+
+
+# Day 61
+- ### Grid Unique Paths | Count paths from left-top to the right bottom of a matrix
+Given a matrix m X n, count paths from left-top to the right bottom of a matrix with the constraints that from each cell you can either only move to the rightward direction or the downward direction.
