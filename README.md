@@ -803,3 +803,9 @@ Given an array of N integers. Find the elements that appears more than N/3 times
 # Day 61
 - ### Grid Unique Paths | Count paths from left-top to the right bottom of a matrix
 Given a matrix m X n, count paths from left-top to the right bottom of a matrix with the constraints that from each cell you can either only move to the rightward direction or the downward direction.
+
+- ### Concatenation of Array
+Given an integer array nums of length n, you want to create an array ans of length 2n where ans[i] == nums[i] and ans[i + n] == nums[i] for 0 <= i < n (0-indexed). Specifically, ans is the concatenation of two nums arrays. Return the array ans.
+
+- ### Count Reverse Pairs
+Problem Statement: Given an array of numbers, you need to return the count of reverse pairs. Reverse Pairs are those pairs where i<j and arr[i]>2*arr[j].
