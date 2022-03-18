@@ -809,3 +809,7 @@ Given an integer array nums of length n, you want to create an array ans of leng
 
 - ### Count Reverse Pairs
 Problem Statement: Given an array of numbers, you need to return the count of reverse pairs. Reverse Pairs are those pairs where i<j and arr[i]>2*arr[j].
+
+# Day 62
+- ### Two Sum Problem- optimised 
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
