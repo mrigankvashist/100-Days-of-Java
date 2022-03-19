@@ -813,3 +813,10 @@ Problem Statement: Given an array of numbers, you need to return the count of re
 # Day 62
 - ### Two Sum Problem- optimised 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+- ### Running Sum of 1d Array
+Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
+Return the running sum of nums.
+
+- ### 4 Sum | Find Quads that add up to a target value
+Given an array of N integers, your task is to find unique quads that add up to give a target value. In short, you need to return an array of all the unique quadruplets [arr[a], arr[b], arr[c], arr[d]] such that their sum is equal to a given target.
