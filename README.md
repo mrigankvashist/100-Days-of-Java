@@ -820,3 +820,11 @@ Return the running sum of nums.
 
 - ### 4 Sum | Find Quads that add up to a target value
 Given an array of N integers, your task is to find unique quads that add up to give a target value. In short, you need to return an array of all the unique quadruplets [arr[a], arr[b], arr[c], arr[d]] such that their sum is equal to a given target.
+
+# Day 63
+- ### Longest Consecutive Sequence in an Array
+You are given an array of ‘N’ integers. You need to find the length of the longest sequence which contains the consecutive elements.
+
+- ### Build Array from Permutation
+Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
+A zero-based permutation nums is an array of distinct integers from 0 to nums.length - 1 (inclusive).
