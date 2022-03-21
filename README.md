@@ -828,3 +828,6 @@ You are given an array of ‘N’ integers. You need to find the length of the l
 - ### Build Array from Permutation
 Given a zero-based permutation nums (0-indexed), build an array ans of the same length where ans[i] = nums[nums[i]] for each 0 <= i < nums.length and return it.
 A zero-based permutation nums is an array of distinct integers from 0 to nums.length - 1 (inclusive).
+
+- ### Length of the longest subarray with zero Sum
+ Given an array containing both positive and negative integers, we have to find the length of the longest subarray with the sum of all elements equal to zero.
