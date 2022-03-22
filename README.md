@@ -831,3 +831,7 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
 
 - ### Length of the longest subarray with zero Sum
  Given an array containing both positive and negative integers, we have to find the length of the longest subarray with the sum of all elements equal to zero.
+
+# Day 64
+- ### Count the number of subarrays with given xor K
+Given an array of integers A and an integer B. Find the total number of subarrays having bitwise XOR of all elements equal to B.
