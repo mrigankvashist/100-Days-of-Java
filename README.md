@@ -835,3 +835,12 @@ A zero-based permutation nums is an array of distinct integers from 0 to nums.le
 # Day 64
 - ### Count the number of subarrays with given xor K
 Given an array of integers A and an integer B. Find the total number of subarrays having bitwise XOR of all elements equal to B.
+
+- ### Length of Longest Substring without any Repeating Character
+Given a String, find the length of longest substring without any repeating character.
+
+- ### Reverse a Linked List
+Given the head of a singly linked list, write a program to reverse the linked list, and return the head pointer to the reversed list.
+
+- ### Find middle element in a Linked List
+Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
