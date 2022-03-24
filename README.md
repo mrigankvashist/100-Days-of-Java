@@ -844,3 +844,8 @@ Given the head of a singly linked list, write a program to reverse the linked li
 
 - ### Find middle element in a Linked List
 Given the head of a singly linked list, return the middle node of the linked list. If there are two middle nodes, return the second middle node.
+
+
+# Day 65
+- ### Merge two sorted Linked Lists
+Given two singly linked lists that are sorted in increasing order of node values, merge two sorted linked lists and return them as a sorted list. The list should be made by splicing together the nodes of the first two lists.
