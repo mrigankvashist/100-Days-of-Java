@@ -847,5 +847,11 @@ Given the head of a singly linked list, return the middle node of the linked lis
 
 
 # Day 65
+- ### Richest Customer Wealth
+You are given an m x n integer grid accounts where accounts[i][j] is the amount of money the i​​​​​​​​​​​th​​​​ customer has in the j​​​​​​​​​​​th​​​​ bank. Return the wealth that the richest customer has. A customer's wealth is the amount of money they have in all their bank accounts. The richest customer is the customer that has the maximum wealth. 
+
 - ### Merge two sorted Linked Lists
 Given two singly linked lists that are sorted in increasing order of node values, merge two sorted linked lists and return them as a sorted list. The list should be made by splicing together the nodes of the first two lists.
+
+# Day 66
+- ### Break due to exams
