@@ -855,3 +855,5 @@ Given two singly linked lists that are sorted in increasing order of node values
 
 # Day 66
 - ### Break due to exams
+
+Long unfortunate break due to offline midterms of my 8th semester exams. These were the first offline exams after 2 years and in my final year, due to which i decided to prepare for them well.
