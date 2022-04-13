@@ -859,3 +859,7 @@ continuing the break from this day onwards
 - ### Merge two sorted Linked Lists
 Given two singly linked lists that are sorted in increasing order of node values, merge two sorted linked lists and return them as a sorted list. The list should be made by splicing together the nodes of the first two lists.
 
+# Day 67
+- ### Remove N-th node from the end of a Linked List
+ Given a linked list, and a number N. Find the Nth node from the end of this linkedlist, and delete it. Return the head of the new modified linked list.
+
