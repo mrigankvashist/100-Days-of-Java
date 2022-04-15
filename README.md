@@ -866,3 +866,7 @@ Given two singly linked lists that are sorted in increasing order of node values
 - ### Add two numbers represented as Linked Lists
 Given the heads of two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
+# Day 68
+- ### Delete given node in a Linked List : O(1) approach
+Problem Statement: Write a function to delete a node in a singly-linked list. You will not be given access to the head of the list instead, you will be given access to the node to be deleted directly. It is guaranteed that the node to be deleted is not a tail node in the list.
+
