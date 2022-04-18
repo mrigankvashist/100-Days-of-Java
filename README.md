@@ -872,3 +872,8 @@ Problem Statement: Write a function to delete a node in a singly-linked list. Yo
 
 - ### Find intersection of Two Linked Lists
  Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.
+
+ # Day 69
+- ### Bubble sort revise
+
+- ### Selection Sort revise
