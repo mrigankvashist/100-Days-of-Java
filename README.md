@@ -877,3 +877,16 @@ Problem Statement: Write a function to delete a node in a singly-linked list. Yo
 - ### Bubble sort revise
 
 - ### Selection Sort revise
+
+- ### Insertion Sort revise
+
+ # Day 70
+- ### Merge two sorted arrays revise
+
+- ### Root Equals Sum of Children
+You are given the root of a binary tree that consists of exactly 3 nodes: the root, its left child, and its right child.
+Return true if the value of the root is equal to the sum of the values of its two children, or false otherwise.
+
+ - ### Defanging an IP Address
+ Given a valid (IPv4) IP address, return a defanged version of that IP address.
+A defanged IP address replaces every period "." with "[.]".
