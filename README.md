@@ -890,3 +890,7 @@ Return true if the value of the root is equal to the sum of the values of its tw
  - ### Defanging an IP Address
  Given a valid (IPv4) IP address, return a defanged version of that IP address.
 A defanged IP address replaces every period "." with "[.]".
+
+# Day 71
+- ### Merge Sort revise
+You are given an array(arr) of integers. You have to sort the given array in increasing order using the merge sort.
