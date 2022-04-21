@@ -894,3 +894,5 @@ A defanged IP address replaces every period "." with "[.]".
 # Day 71
 - ### Merge Sort revise
 You are given an array(arr) of integers. You have to sort the given array in increasing order using the merge sort.
+
+- ### Partition an array revise
