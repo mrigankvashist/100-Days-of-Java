@@ -15,8 +15,8 @@ public class quicksortrev {
     }
 
     public static int partition(int[] nums, int pivot, int lo, int hi) {
-        int i = 0;
-        int j = 0;
+        int i = lo;
+        int j = lo;
         while (i < nums.length) {
             if (nums[i] > pivot) {
                 i++;

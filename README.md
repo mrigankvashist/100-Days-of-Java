@@ -898,3 +898,8 @@ You are given an array(arr) of integers. You have to sort the given array in inc
 - ### Partition an array revise
 
 - ### Quick Sort revise
+
+
+# Day 72
+- ### Quick Select
+You are given an array(arr) of integers. You have to find the k-th smallest element in the given array using the quick-select algorithm.
