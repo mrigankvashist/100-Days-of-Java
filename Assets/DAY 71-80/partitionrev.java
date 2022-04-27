@@ -6,11 +6,11 @@ public class partitionrev {
         int i = 0;
         int j = 0;
         while(i<nums.length){
-            if(nums[i]>pivot){
+            if(nums[i]>pivot){  // if number is greater than pivot, we only increment the i pointer
                 i++;
             }
             else{
-                int temp = nums[i];
+                int temp = nums[i];  // if number is less than pivot, we only swap that lesser number at ith spot with the jth element (which lies at the left of ith element) so that all lesser elements can be on the left of the pivot
                 nums[i] = nums[j];
                 nums[j] = temp;
                 i++;

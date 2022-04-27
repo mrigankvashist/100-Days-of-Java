@@ -2,19 +2,18 @@ import java.util.*;
 
 public class quickselect {
 
-  public static int quickSelect(int[] arr, int lo, int hi, int k) {
-    //write your code here
-    int pivot = arr[hi];
-    int pi = partition(arr,pivot,lo,hi);
+  public static int quickSelect(int[] arr, int lo, int hi, int k) {  // to find the kth smallest element in the array => it would lie at k-1 th index
+    int pivot = arr[hi];  // assiging pivot as the last element of the array
+    int pi = partition(arr,pivot,lo,hi);  // finding the partiton index by passing the pivot in the partition function
 
-    if(k>pi){
+    if(k>pi){  // if k is greater than the pivot index => the kth element lies to the right side of the pivot element, therefore quickselect algo is called to the right of the pivot i.e. pi+1 to hi
       return quickSelect(arr,pi+1,hi,k);
     }
-    else if(k<pi){
+    else if(k<pi){ // if k is smaller than the pivot index => the kth element lies to the left side of the pivot element, therefore quickselect algo is called to the left of the pivot i.e. lo to pi-1
       return quickSelect(arr,lo,pi-1,k);
     }
     else{
-      return arr[pi];
+      return arr[pi]; // if k == pi, we will return the pivot or the arr at the pivot index
     }
   }
 

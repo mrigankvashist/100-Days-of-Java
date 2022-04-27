@@ -910,3 +910,10 @@ You have to sort the given array in increasing order using count sort.
 
 # Day 73
 Minimal contribution due to major project final defence
+
+# Day 74
+- ### Count Sort
+You are given an array(arr) of integers 
+You have to sort the given array in increasing order using count sort.
+
+
