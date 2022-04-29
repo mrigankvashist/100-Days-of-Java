@@ -916,10 +916,12 @@ Minimal contribution due to major project final defence
 You are given an array(arr) of integers 
 You have to sort the given array in increasing order using count sort.
 
-Radix Sort
-Easy
+- ### Radix Sort
+You are given an array(arr) of integers.
+You have to sort the given array in increasing order using radix sort.
 
-1. You are given an array(arr) of integers.
-2. You have to sort the given array in increasing order using radix sort.
+- ### Sort Dates
+You are given an array(arr) of different dates in format DD-MM-YYYY.
+You have to sort these dates in increasing order.
 
 
