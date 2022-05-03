@@ -924,4 +924,9 @@ You have to sort the given array in increasing order using radix sort.
 You are given an array(arr) of different dates in format DD-MM-YYYY.
 You have to sort these dates in increasing order.
 
+# Day 75
+- ### Number of Good Pairs
+Given an array of integers nums, return the number of good pairs.
+A pair (i, j) is called good if nums[i] == nums[j] and i < j
+
 
