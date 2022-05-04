@@ -929,4 +929,14 @@ You have to sort these dates in increasing order.
 Given an array of integers nums, return the number of good pairs.
 A pair (i, j) is called good if nums[i] == nums[j] and i < j
 
+- ### Final Value of Variable After Performing Operations
+There is a programming language with only four operations and one variable X:
+++X and X++ increments the value of the variable X by 1.
+--X and X-- decrements the value of the variable X by 1.
+Initially, the value of X is 0.
+Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations
+
+- ### Sort 01
+You are given an array(arr) containing only 0's and 1's.You have to sort the given array in increasing order and in linear time.
+
 
