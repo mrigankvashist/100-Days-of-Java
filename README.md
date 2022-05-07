@@ -939,4 +939,9 @@ Given an array of strings operations containing a list of operations, return the
 - ### Sort 01
 You are given an array(arr) containing only 0's and 1's.You have to sort the given array in increasing order and in linear time.
 
+# Day 76
+- ### Sort 012
+You are given an array(arr) containing only 0's, 1's, and 2's.
+You have to sort the given array in increasing order and in linear time.
+
 
