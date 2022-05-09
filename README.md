@@ -944,4 +944,11 @@ You are given an array(arr) containing only 0's and 1's.You have to sort the giv
 You are given an array(arr) containing only 0's, 1's, and 2's.
 You have to sort the given array in increasing order and in linear time.
 
+- ### Target Sum Pair 1
+You are given an array(arr) of distinct integers and a target. You have to print all the pairs having their sum equal to the target.
+
+- ### Pivot In Sorted And Rotated Array
+You are given an array(arr) of distinct integers, which is sorted and rotated around an unknown point.
+You have to find the smallest element in O(logN) time-complexity
+
 
