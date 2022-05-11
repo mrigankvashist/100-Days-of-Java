@@ -951,4 +951,16 @@ You are given an array(arr) of distinct integers and a target. You have to print
 You are given an array(arr) of distinct integers, which is sorted and rotated around an unknown point.
 You have to find the smallest element in O(logN) time-complexity
 
+# Day 77
+- ### Studied about basics of stacks in java
+
+- ###  Duplicate Brackets
+You are given a string exp representing an expression. 2. Assume that the expression is balanced i.e. the opening and closing brackets match with each other. 3. But, some of the pair of brackets maybe extra/needless. 4. You are required to print true if you detect extra brackets and false otherwise. e.g.' ((a + b) + (c + d)) -> false (a + b) + ((c + d)) -> true
+
+- ### Next Greater Element To The Right
+You are given a number n, representing the size of array a.
+You are given n numbers, representing elements of array a.
+You are required to "next greater element on the right" for all elements of array
+Input and output is handled for you.
+
 
