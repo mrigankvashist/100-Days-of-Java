@@ -963,4 +963,13 @@ You are given n numbers, representing elements of array a.
 You are required to "next greater element on the right" for all elements of array
 Input and output is handled for you.
 
+# Day 78
+- ### Stock Span
+You are given a number n, representing the size of array a.
+You are given n numbers, representing the prices of a share on n days.
+You are required to find the stock span for n days.
+Stock span is defined as the number of days passed between the current day and the first day before today when price was higher than today
+
+- ###  Largest Area Histogram
+You are given a number n, representing the size of array a.You are given n numbers, representing the height of bars in a bar chart.You are required to find and print the area of largest rectangle in the histogram. e.g. for the array [6 2 5 4 5 1 6] -> 12
 
