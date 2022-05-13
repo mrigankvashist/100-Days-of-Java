@@ -12,6 +12,9 @@ public static void main(String[] args) throws Exception {
     for(int i = 0; i < n; i++){
        a[i] = Integer.parseInt(br.readLine());
     }
+    // stack banta jaega, agar stack mein array se bada element aya, to wo pop hojaega (BADA POP HOGA)
+    // because agar array element se chhota element aya, to smallest element as compared to a[i] to the right/left wohi element hoga jo st,peek() se aega
+
     int[] rb = new int[a.length]; // nse -> next smaller element on the right
     Stack<Integer> st = new Stack<>();
     st.push(a.length-1);
@@ -35,14 +38,14 @@ public static void main(String[] args) throws Exception {
     st.push(0);
     lb[0] = -1;
     for (int i = 1; i < a.length ;i++) {
-        while(st.size()>0 && a[i] < a[st.peek()] ){
+        while(st.size()>0 && a[i] <= a[st.peek()] ){
             st.pop();
         }
         if(st.size() == 0){
             lb[i] =-1;
         }
         else{
-            rb[i] = st.peek();
+            lb[i] = st.peek();
         }
         st.push(i);
 
@@ -61,6 +64,6 @@ public static void main(String[] args) throws Exception {
 
 
 
-    // code
+    // 
  }
 }

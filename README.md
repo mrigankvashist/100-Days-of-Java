@@ -973,3 +973,13 @@ Stock span is defined as the number of days passed between the current day and t
 - ###  Largest Area Histogram
 You are given a number n, representing the size of array a.You are given n numbers, representing the height of bars in a bar chart.You are required to find and print the area of largest rectangle in the histogram. e.g. for the array [6 2 5 4 5 1 6] -> 12
 
+
+# Day 79
+- ### Sliding Window Maximum
+You are given a number n, representing the size of array a.
+You are given n numbers, representing the elements of array a.
+You are given a number k, representing the size of window.
+You are required to find and print the maximum element in every window of size k.
+e.g.
+for the array [2 9 3 8 1 7 12 6 14 4 32 0 7 19 8 12 6] and k = 4, the answer is [9 9 8 12 12 14 14 32 32 32 32 19 19 19]
+
