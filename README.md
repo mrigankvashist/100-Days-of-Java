@@ -983,3 +983,15 @@ You are required to find and print the maximum element in every window of size k
 e.g.
 for the array [2 9 3 8 1 7 12 6 14 4 32 0 7 19 8 12 6] and k = 4, the answer is [9 9 8 12 12 14 14 32 32 32 32 19 19 19]
 
+- ### Infix Evaluation
+1. You are given an infix expression.
+2. You are required to evaluate and print it's value.
+
+Constraints
+1. Expression is balanced
+2. The only operators used are +, -, *, /
+3. Opening and closing brackets - () - are used to impact precedence of operations
+4. + and - have equal precedence which is less than * and /. * and / also have equal precedence.
+5. In two operators of equal precedence give preference to the one on left.
+6. All operands are single digit numbers.
+
