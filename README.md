@@ -995,3 +995,9 @@ Constraints
 5. In two operators of equal precedence give preference to the one on left.
 6. All operands are single digit numbers.
 
+# Day 80
+- ### No contribution due to major project deadlines
+
+# Day 81
+- ###
+
