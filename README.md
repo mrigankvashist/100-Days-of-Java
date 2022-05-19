@@ -1001,3 +1001,9 @@ Constraints
 # Day 81
 - ###
 
+# Day 82
+- ### Infix Conversions
+You are given an infix expression.
+You are required to convert it to postfix and print it.
+You are required to convert it to prefix and print it.
+
