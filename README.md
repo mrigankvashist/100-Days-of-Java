@@ -1015,3 +1015,10 @@ You are a product manager and currently leading a team to develop a new product.
 Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad.
 You are given an API bool isBadVersion(version) which returns whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API.
 
+# Day 82
+- ### Postfix Evaluation And Conversions
+You are given a postfix expression.
+You are required to evaluate it and print it's value.
+You are required to convert it to infix and print it.
+You are required to convert it to prefix and print it.
+
