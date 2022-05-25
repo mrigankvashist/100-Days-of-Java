@@ -1026,3 +1026,18 @@ You are required to convert it to prefix and print it.
 revise day 81
 
 - ### Celebrity Problem
+You are given a number n, representing the number of people in a party.
+You are given n strings of n length containing 0's and 1's
+If there is a '1' in ith row, jth spot, then person i knows about person j.
+A celebrity is defined as somebody who knows no other person than himself but everybody else knows him.
+If there is a celebrity print it's index otherwise print "none".
+
+# Day 83
+- ### Merge Overlapping Interval  **get back to this post oops
+1. You are given a number n, representing the number of time-intervals.
+2. In the next n lines, you are given a pair of space separated numbers.
+3. The pair of numbers represent the start time and end time of a meeting (first number is start time and second number is end time)
+4. You are required to merge the meetings and print the merged meetings output in increasing order of start time.
+
+- ### Smallest Number Following Pattern
+1. You are given a pattern of upto 8 length containing characters 'i' and 'd'. 2. 'd' stands for decreasing and 'i' stands for increasing 3. You have to print the smallest number, using the digits 1 to 9 only without repetition, such that the digit decreases following a d and increases follwing an i. e.g. d -> 21 i -> 12 ddd -> 4321 iii -> 1234 dddiddd -> 43218765 iiddd -> 126543
