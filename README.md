@@ -1040,4 +1040,10 @@ If there is a celebrity print it's index otherwise print "none".
 4. You are required to merge the meetings and print the merged meetings output in increasing order of start time.
 
 - ### Smallest Number Following Pattern
-1. You are given a pattern of upto 8 length containing characters 'i' and 'd'. 2. 'd' stands for decreasing and 'i' stands for increasing 3. You have to print the smallest number, using the digits 1 to 9 only without repetition, such that the digit decreases following a d and increases follwing an i. e.g. d -> 21 i -> 12 ddd -> 4321 iii -> 1234 dddiddd -> 43218765 iiddd -> 126543
+1. You are given a pattern of upto 8 length containing characters 'i' and 'd'. 
+2. 'd' stands for decreasing and 'i' stands for increasing 
+3. You have to print the smallest number, using the digits 1 to 9 only without repetition, such that the digit decreases following a d and increases follwing an i. e.g. d -> 21 i -> 12 ddd -> 4321 iii -> 1234 dddiddd -> 43218765 iiddd -> 126543
+
+- ### Even and Odd 
+Given an array arr[] of size N containing equal number of odd and even numbers. Arrange the numbers in such a way that all the even numbers get the even index and odd numbers get the odd index.
+Note: There are multiple possible solutions, Print any one of them. Also, 0-based indexing is considered.
