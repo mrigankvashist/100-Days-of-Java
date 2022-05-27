@@ -1047,3 +1047,15 @@ If there is a celebrity print it's index otherwise print "none".
 - ### Even and Odd 
 Given an array arr[] of size N containing equal number of odd and even numbers. Arrange the numbers in such a way that all the even numbers get the even index and odd numbers get the odd index.
 Note: There are multiple possible solutions, Print any one of them. Also, 0-based indexing is considered.
+
+
+# Day 84
+- ### Number of 1 Bits
+Write a function that takes an unsigned integer and returns the number of '1' bits it has (also known as the Hamming weight).
+eg. Input: n = 00000000000000000000000000001011
+Output: 3
+Explanation: The input binary string 00000000000000000000000000001011 has a total of three '1' bits.
+
+- ### Number of Steps to Reduce a Number to Zero
+Given an integer num, return the number of steps to reduce it to zero.
+In one step, if the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
