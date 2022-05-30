@@ -1059,3 +1059,13 @@ Explanation: The input binary string 00000000000000000000000000001011 has a tota
 - ### Number of Steps to Reduce a Number to Zero
 Given an integer num, return the number of steps to reduce it to zero.
 In one step, if the current number is even, you have to divide it by 2, otherwise, you have to subtract 1 from it.
+
+- ### Missing Number
+Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
+
+# Day 85
+- ### OOP's - Classes and Objects introduction
+
+- ### OOP's - Swap Game 1
+
+- ### OOP's - Swap Game 2
