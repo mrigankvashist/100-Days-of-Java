@@ -1069,3 +1069,10 @@ Given an array nums containing n distinct numbers in the range [0, n], return th
 - ### OOP's - Swap Game 1
 
 - ### OOP's - Swap Game 2
+
+- ### Divide 2 integers
+
+# Day 86
+- ### OOP's - Swap Game 3
+
+- ### OOP's - Constructors and This
