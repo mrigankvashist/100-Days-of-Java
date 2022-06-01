@@ -1071,8 +1071,19 @@ Given an array nums containing n distinct numbers in the range [0, n], return th
 - ### OOP's - Swap Game 2
 
 - ### Divide 2 integers
+Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.
+The integer division should truncate toward zero, which means losing its fractional part. For example, 8.345 would be truncated to 8, and -2.7335 would be truncated to -2.
+Return the quotient after dividing dividend by divisor.
 
 # Day 86
 - ### OOP's - Swap Game 3
 
 - ### OOP's - Constructors and This
+
+- ### Check If a String Contains All Binary Codes of Size K
+Given a binary string s and an integer k, return true if every binary code of length k is a substring of s. Otherwise, return false.
+
+# Day 87
+- ### Running Sum of 1d Array
+Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
+Return the running sum of nums
