@@ -1087,3 +1087,7 @@ Given a binary string s and an integer k, return true if every binary code of le
 - ### Running Sum of 1d Array
 Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
 Return the running sum of nums
+
+- ### Transpose Matrix
+Given a 2D integer array matrix, return the transpose of matrix.
+The transpose of a matrix is the matrix flipped over its main diagonal, switching the matrix's row and column indices.
