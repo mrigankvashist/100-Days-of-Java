@@ -1098,3 +1098,11 @@ Calculate the sum of the elements of matrix inside the rectangle defined by its 
 Implement the NumMatrix class:
 NumMatrix(int[][] matrix) Initializes the object with the integer matrix matrix.
 int sumRegion(int row1, int col1, int row2, int col2) Returns the sum of the elements of matrix inside the rectangle defined by its upper left corner (row1, col1) and lower right corner (row2, col2).
+
+# Day 88
+- ###  N-Queens
+The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.
+Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.
+Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively.
+
+
