@@ -1153,3 +1153,13 @@ Given the head of a linked list, return the node where the cycle begins. If ther
 There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to (0-indexed). It is -1 if there is no cycle. Note that pos is not passed as a parameter.
 Do not modify the linked list.
 
+- ### Flattening a Linked List
+Given a Linked List of size N, where every node represents a sub-linked-list and contains two pointers:
+(i) a next pointer to the next node,
+(ii) a bottom pointer to a linked list where this node is head.
+Each of the sub-linked-list is in sorted order.
+Flatten the Link List such that all the nodes appear in a single level while maintaining the sorted order. 
+Note: The flattened list will be printed using the bottom pointer instead of the next pointer.
+
+- ### Rotate a Linked List
+Given the head of a linked list, rotate the list to the right by k places.
