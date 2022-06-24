@@ -8,17 +8,18 @@ class Node {
 }
 public class rotatell {
   //utility function to insert node at the end of the list
-  static Node insertNode(Node head, int val) {
-    Node newNode = new Node(val);
-    if (head == null) {
-      head = newNode;
+  static Node insertNode(Node head,int val){
+      Node newN = new Node(val);
+      if(head == null){
+          head = newN;
+          return head;
+      }
+      Node temp = head;
+      while(temp.next != null){
+          temp = temp.next;
+      }
+      temp.next = newN;
       return head;
-    }
-    Node temp = head;
-    while (temp.next != null) temp = temp.next;
-
-    temp.next = newNode;
-    return head;
   }
   //utility function to rotate list by k times
   static Node rotateRight(Node head, int k) {
