@@ -1,6 +1,7 @@
 class Node {
   int num;
   Node next;
+public Object random;
   Node(int a) {
     num = a;
     next = null;

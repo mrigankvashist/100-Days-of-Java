@@ -1,47 +1,39 @@
+import java.util.HashMap;
+class Node {
+    int val;
+    Node next;
+    Node random;
+
+    public Node(int val) {
+        this.val = val;
+        this.next = null;
+        this.random = null;
+    }
+}
+
 class clonellptr {
     public Node copyRandomList(Node head) {
-        if (head == null)
-            return null;
+        if(head == null) return head;
         
-        Node curr = head;
-        //add a copy extra node after each node
-        while (curr != null)
-        {
-            Node temp = curr.next;
-            Node copy = new Node(curr.val);
-            curr.next = copy;
-            copy.next = temp;
-            curr = temp;            
+        HashMap<Node,Node> map = new HashMap<>();
+        Node temp = head;
+        
+        while(temp != null){
+            //Put temp --> temp'
+            map.put(temp,new Node(temp.val));
+            temp = temp.next;
         }
         
-        // put the random reference for copies
-        curr = head;
-        while (curr != null)
-        {
-            if(curr.next != null)  
-              curr.next.random = (curr.random != null) ? curr.random.next : curr.random;  
-  
-        // move to the next newly added node by  
-        // skipping an original node  
-        curr = (curr.next != null) ? curr.next.next : curr.next;  
+        temp = head;
+        
+        while(temp != null){
+            // Retrieve temp'
+            Node newTempNode = map.get(temp);
+            newTempNode.next = map.get(temp.next);
+            newTempNode.random = map.get(temp.random);
+            temp = temp.next;
         }
         
-        // separa in two lists : original and copy
-        // restore initial next configuration
-        Node original = head, copy = head.next;  
-  
-        // save the start of copied linked list  
-        Node result = copy;  
-
-        // now separate the original list and copied list  
-        while (original != null && copy != null)  
-        {  
-            original.next = (original.next != null) ? original.next.next : original.next;  
-            copy.next = (copy.next != null) ? copy.next.next : copy.next;  
-            
-            original = original.next;  
-            copy = copy.next;  
-        }  
-        return result;  
+        return map.get(head);
     }
 }
