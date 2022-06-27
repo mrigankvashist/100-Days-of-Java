@@ -1177,10 +1177,14 @@ Problem Statement: Given an array of N integers, your task is to find unique tri
 - ### No contribution due to visa process
 
 # Day 95
-
 - ### Maximum Points You Can Obtain from Cards
 There are several cards arranged in a row, and each card has an associated number of points. The points are given in the integer array cardPoints. In one step, you can take one card from the beginning or from the end of the row. You have to take exactly k cards.
 Your score is the sum of the points of the cards you have taken. Given the integer array cardPoints and the integer k, return the maximum score you can obtain.
 
 - ### Trapping Rainwater
 Problem Statement: Given an array of non-negative integers representation elevation of ground. Your task is to find the water that can be trapped after raining.
+
+# Day 96
+- ###  Partitioning Into Minimum Number Of Deci-Binary Numbers
+A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example, 101 and 1100 are deci-binary, while 112 and 3001 are not.
+ring n that represents a positive decimal integer, return the minimum number of positive deci-binary numbers needed so that they sum up to n.
