@@ -1188,3 +1188,8 @@ Problem Statement: Given an array of non-negative integers representation elevat
 - ###  Partitioning Into Minimum Number Of Deci-Binary Numbers
 A decimal number is called deci-binary if each of its digits is either 0 or 1 without any leading zeros. For example, 101 and 1100 are deci-binary, while 112 and 3001 are not.
 ring n that represents a positive decimal integer, return the minimum number of positive deci-binary numbers needed so that they sum up to n.
+
+- ### Minimum Deletions to Make Character Frequencies Unique
+A string s is called good if there are no two different characters in s that have the same frequency.
+Given a string s, return the minimum number of characters you need to delete to make s good.
+The frequency of a character in a string is the number of times it appears in the string. For example, in the string "aab", the frequency of 'a' is 2, while the frequency of 'b' is 1.
