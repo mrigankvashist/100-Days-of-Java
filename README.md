@@ -1193,3 +1193,13 @@ ring n that represents a positive decimal integer, return the minimum number of 
 A string s is called good if there are no two different characters in s that have the same frequency.
 Given a string s, return the minimum number of characters you need to delete to make s good.
 The frequency of a character in a string is the number of times it appears in the string. For example, in the string "aab", the frequency of 'a' is 2, while the frequency of 'b' is 1.
+
+# Day 97
+- ### Queue Reconstruction by Height
+You are given an array of people, people, which are the attributes of some people in a queue (not necessarily in order). Each people[i] = [hi, ki] represents the ith person of height hi with exactly ki other people in front who have a height greater than or equal to hi.
+Reconstruct and return the queue that is represented by the input array people. The returned queue should be formatted as an array queue, where queue[j] = [hj, kj] is the attributes of the jth person in the queue (queue[0] is the person at the front of the queue).
+
+- ### Minimum Moves to Equal Array Elements II
+Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal.
+In one move, you can increment or decrement an element of the array by 1.
+Test cases are designed so that the answer will fit in a 32-bit integer
