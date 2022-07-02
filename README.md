@@ -1203,3 +1203,16 @@ Reconstruct and return the queue that is represented by the input array people. 
 Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal.
 In one move, you can increment or decrement an element of the array by 1.
 Test cases are designed so that the answer will fit in a 32-bit integer
+
+# Day 98
+- ### Shuffle the Array
+Given the array nums consisting of 2n elements in the form [x1,x2,...,xn,y1,y2,...,yn].
+Return the array in the form [x1,y1,x2,y2,...,xn,yn].
+
+ - ### Maximum Number of Words Found in Sentences
+A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
+You are given an array of strings sentences, where each sentences[i] represents a single sentence.
+Return the maximum number of words that appear in a single sentence.
+
+ - ###  3 Sum : Find triplets that add up to a zero : Revision
+ Given an array of N integers, your task is to find unique triplets that add up to give a sum of zero. In short, you need to return an array of all the unique triplets [arr[a], arr[b], arr[c]] such that i!=j, j!=k, k!=i, and their sum is equal to zero.
