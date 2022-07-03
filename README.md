@@ -1216,3 +1216,9 @@ Return the maximum number of words that appear in a single sentence.
 
  - ###  3 Sum : Find triplets that add up to a zero : Revision
  Given an array of N integers, your task is to find unique triplets that add up to give a sum of zero. In short, you need to return an array of all the unique triplets [arr[a], arr[b], arr[c]] such that i!=j, j!=k, k!=i, and their sum is equal to zero.
+
+ # Day 99
+- ###  Maximum Number of Words Found in Sentences
+A sentence is a list of words that are separated by a single space with no leading or trailing spaces.
+You are given an array of strings sentences, where each sentences[i] represents a single sentence.
+Return the maximum number of words that appear in a single sentence.
